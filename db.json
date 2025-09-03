@@ -1,0 +1,522 @@
+{
+  "products": [
+    {
+      "id": "2",
+      "name": "iPhone 14 Pro Max",
+      "price": 35000000,
+      "description": "Smartphone cao cấp với camera 48MP",
+      "image": "https://tse1.mm.bing.net/th?id=OIP.QFpdj3RVQRCeozn8iiDOdAHaHa&pid=Api&P=0&h=180",
+      "category_id": 2,
+      "status": "Còn hàng"
+    },
+    {
+      "id": "3",
+      "name": "Samsung Galaxy S23 Ultra",
+      "price": 36000000,
+      "description": "Flagship mạnh mẽ với bút S-Pen",
+      "image": "https://tse1.mm.bing.net/th?id=OIP.QFpdj3RVQRCeozn8iiDOdAHaHa&pid=Api&P=0&h=180",
+      "category_id": 3,
+      "status": "Hết hàng"
+    },
+    {
+      "id": "4",
+      "name": "MacBook Air M2",
+      "price": 29000000,
+      "description": "Laptop siêu nhẹ với chip M2 mạnh mẽ",
+      "image": "https://tse1.mm.bing.net/th?id=OIP.k4BpphS10ZBkCqd3O3N67AHaE7&pid=Api&P=0&h=180",
+      "category_id": 4,
+      "status": "Còn hàng"
+    },
+    {
+      "id": "5",
+      "name": "Sony WH-1000XM5",
+      "price": 8000000,
+      "description": "Tai nghe chống ồn tốt nhất của Sony",
+      "image": "https://tse4.mm.bing.net/th?id=OIP.mgPMT9HuJxHvD1JB33E_3gHaFj&pid=Api&P=0&h=180",
+      "category_id": 5,
+      "status": "Còn hàng"
+    },
+    {
+      "id": "6",
+      "name": "Apple Watch Series 8",
+      "price": 12000000,
+      "description": "Đồng hồ thông minh với nhiều tính năng sức khỏe",
+      "image": "https://tse4.mm.bing.net/th?id=OIP.mgPMT9HuJxHvD1JB33E_3gHaFj&pid=Api&P=0&h=180",
+      "category_id": 6,
+      "status": "Còn hàng"
+    },
+    {
+      "id": "7",
+      "name": "iPad Pro M2",
+      "price": 27000000,
+      "description": "Máy tính bảng mạnh mẽ nhất của Apple",
+      "image": "https://tse1.mm.bing.net/th?id=OIP.k4BpphS10ZBkCqd3O3N67AHaE7&pid=Api&P=0&h=180",
+      "category_id": 1,
+      "status": "Còn hàng"
+    },
+    {
+      "id": "8",
+      "name": "AirPods Pro 2",
+      "price": 6000000,
+      "description": "Tai nghe không dây với khả năng chống ồn tốt",
+      "image": "https://tse4.mm.bing.net/th?id=OIP.mgPMT9HuJxHvD1JB33E_3gHaFj&pid=Api&P=0&h=180",
+      "category_id": 2,
+      "status": "Còn hàng"
+    },
+    {
+      "id": "9",
+      "name": "GoPro Hero 11",
+      "price": 10000000,
+      "description": "Camera hành trình với khả năng quay 5.3K",
+      "image": "https://tse2.mm.bing.net/th?id=OIP.dNoJCW125gy1u7b23CpFtwHaHa&pid=Api&P=0&h=180",
+      "category_id": 3,
+      "status": "Còn hàng"
+    },
+    {
+      "id": "10",
+      "name": "Xbox Series X",
+      "price": 15000000,
+      "description": "Máy chơi game thế hệ mới của Microsoft",
+      "image": "https://tse1.mm.bing.net/th?id=OIP.QFpdj3RVQRCeozn8iiDOdAHaHa&pid=Api&P=0&h=180",
+      "category_id": 4,
+      "status": "Hết hàng"
+    },
+    {
+      "id": "ad65",
+      "name": "nguyễn",
+      "price": 150,
+      "description": "dá",
+      "image": "https://tse1.mm.bing.net/th?id=OIP.k4BpphS10ZBkCqd3O3N67AHaE7&pid=Api&P=0&h=180",
+      "category_id": 5,
+      "status": "Còn hàng"
+    }
+  ],
+  "categories": [
+    {
+      "id": "1",
+      "name": "Laptop"
+    },
+    {
+      "id": "2",
+      "name": "Điện thoại"
+    },
+    {
+      "id": "3",
+      "name": "Phụ kiện"
+    },
+    {
+      "id": "4",
+      "name": "Máy tính bảng"
+    },
+    {
+      "id": "5",
+      "name": "Camera"
+    },
+    {
+      "id": "6",
+      "name": "Máy chơi game"
+    }
+  ],
+  "customers": [
+    {
+      "id": "3",
+      "image": "https://randomuser.me/api/portraits/men/3.jpg",
+      "name": "nguyễn hạcker",
+      "phone": "123456",
+      "email": "levanc@example.com",
+      "address": "789 Đường DEF, Quận 3, TP. HCM",
+      "role": "Quản trị viên",
+      "username": "admin",
+      "password": "123"
+    },
+    {
+      "id": "4",
+      "image": "https://randomuser.me/api/portraits/women/4.jpg",
+      "name": "Phạm Thị D",
+      "phone": "0356789123",
+      "email": "phamthid@example.com",
+      "address": "321 Đường GHI, Quận 4, TP. HCM",
+      "role": "Nhân viên",
+      "username": "sta",
+      "password": "123"
+    },
+    {
+      "id": "5",
+      "image": "https://randomuser.me/api/portraits/men/5.jpg",
+      "name": "Hoàng Văn E",
+      "phone": "0398765432",
+      "email": "hoangvane@example.com",
+      "address": "567 Đường JKL, Quận 5, TP. HCM",
+      "role": "Khách hàng",
+      "username": "cus",
+      "password": "123"
+    },
+    {
+      "id": "6",
+      "image": "https://randomuser.me/api/portraits/women/6.jpg",
+      "name": "Ngô Thị F",
+      "phone": "0971234567",
+      "email": "ngothif@example.com",
+      "address": "890 Đường MNO, Quận 6, TP. HCM",
+      "role": "Khách hàng",
+      "username": "cus3",
+      "password": "123"
+    },
+    {
+      "id": "7",
+      "image": "https://randomuser.me/api/portraits/men/7.jpg",
+      "name": "Đinh Văn G",
+      "phone": "0321987654",
+      "email": "dinhvang@example.com",
+      "address": "123 Đường PQR, Quận 7, TP. HCM",
+      "role": "Nhân viên"
+    },
+    {
+      "id": "8",
+      "image": "https://randomuser.me/api/portraits/women/8.jpg",
+      "name": "Bùi Thị H",
+      "phone": "0945678912",
+      "email": "buithih@example.com",
+      "address": "234 Đường STU, Quận 8, TP. HCM",
+      "role": "Quản trị viên"
+    },
+    {
+      "id": "9",
+      "image": "https://randomuser.me/api/portraits/men/9.jpg",
+      "name": "Vũ Văn I",
+      "phone": "0812345678",
+      "email": "vuvani@example.com",
+      "address": "345 Đường VWX, Quận 9, TP. HCM",
+      "role": "Khách hàng"
+    },
+    {
+      "id": "10",
+      "image": "https://randomuser.me/api/portraits/women/10.jpg",
+      "name": "Lý Thị J",
+      "phone": "0909876543",
+      "email": "lythij@example.com",
+      "address": "456 Đường YZA, Quận 10, TP. HCM",
+      "role": "Nhân viên"
+    },
+    {
+      "id": "11",
+      "image": "https://randomuser.me/api/portraits/men/11.jpg",
+      "name": "Phan Văn K",
+      "phone": "0934567890",
+      "email": "phanvank@example.com",
+      "address": "567 Đường BCD, Quận 11, TP. HCM",
+      "role": "Khách hàng"
+    },
+    {
+      "id": "12",
+      "image": "https://randomuser.me/api/portraits/women/12.jpg",
+      "name": "Tô Thị L",
+      "phone": "0701234567",
+      "email": "tothil@example.com",
+      "address": "678 Đường EFG, Quận 12, TP. HCM",
+      "role": "Quản trị viên"
+    },
+    {
+      "id": "13",
+      "image": "https://randomuser.me/api/portraits/men/13.jpg",
+      "name": "Đoàn Văn M",
+      "phone": "0923456789",
+      "email": "doanvanm@example.com",
+      "address": "789 Đường HIJ, Quận Bình Thạnh, TP. HCM",
+      "role": "Nhân viên"
+    },
+    {
+      "id": "14",
+      "image": "https://randomuser.me/api/portraits/women/14.jpg",
+      "name": "Trịnh Thị N",
+      "phone": "0765432198",
+      "email": "trinhtin@example.com",
+      "address": "890 Đường KLM, Quận Tân Bình, TP. HCM",
+      "role": "Khách hàng"
+    },
+    {
+      "id": "15",
+      "image": "https://randomuser.me/api/portraits/men/15.jpg",
+      "name": "Lâm Văn O",
+      "phone": "0834567891",
+      "email": "lamvano@example.com",
+      "address": "901 Đường NOP, Quận Phú Nhuận, TP. HCM",
+      "role": "Nhân viên"
+    },
+    {
+      "id": "4315",
+      "name": "nguyễn"
+    },
+    {
+      "id": "b290",
+      "name": "aaaa",
+      "phone": "2222222222",
+      "address": "789 Đường DEF, Quận 3, TP. HCM",
+      "image": "https://tse1.mm.bing.net/th?id=OIP.k4BpphS10ZBkCqd3O3N67AHaE7&pid=Api&P=0&h=180",
+      "email": "levanc@example.com",
+      "role": "Khách hàng"
+    },
+    {
+      "id": "ffe2",
+      "name": "gsg",
+      "phone": "2222222222",
+      "email": "anhajs@gmail.cc",
+      "address": "789 Đường DEF, Quận 3, TP. HCM",
+      "image": "https://randomuser.me/api/portraits/men/3.jpg",
+      "role": "Nhân viên"
+    }
+  ],
+  "orders": [
+    {
+      "id": "1743841985922",
+      "customer_name": "ttt",
+      "products": [
+        {
+          "id": "6",
+          "name": "Apple Watch Series 8",
+          "price": 12000000,
+          "description": "Đồng hồ thông minh với nhiều tính năng sức khỏe",
+          "image": "https://tse4.mm.bing.net/th?id=OIP.mgPMT9HuJxHvD1JB33E_3gHaFj&pid=Api&P=0&h=180",
+          "category_id": 6,
+          "status": "Còn hàng",
+          "quantity": 1
+        }
+      ],
+      "order_date": "2025-04-05",
+      "status": "Hoàn thành",
+      "note": "",
+      "discount": 8,
+      "total_price": 12000000
+    },
+    {
+      "id": "1743841990219",
+      "customer_name": "Lâm Văn O",
+      "products": [
+        {
+          "id": "6",
+          "name": "Apple Watch Series 8",
+          "price": 12000000,
+          "description": "Đồng hồ thông minh với nhiều tính năng sức khỏe",
+          "image": "https://tse4.mm.bing.net/th?id=OIP.mgPMT9HuJxHvD1JB33E_3gHaFj&pid=Api&P=0&h=180",
+          "category_id": 6,
+          "status": "Còn hàng",
+          "quantity": 1
+        }
+      ],
+      "order_date": "2025-04-05",
+      "status": "Hoàn thành",
+      "note": "",
+      "discount": 0,
+      "total_price": 12000000
+    },
+    {
+      "id": "1744113720569",
+      "customer_name": "ggggg",
+      "products": [
+        {
+          "id": "1",
+          "name": "Laptop Dell XPS 13",
+          "price": 32000000,
+          "description": "Laptop cao cấp với màn hình 13 inch và CPU Intel i7",
+          "image": "https://tse1.mm.bing.net/th?id=OIP.k4BpphS10ZBkCqd3O3N67AHaE7&pid=Api&P=0&h=180",
+          "category_id": 1,
+          "status": "Còn hàng",
+          "quantity": 1
+        }
+      ],
+      "order_date": "2025-04-08",
+      "status": "Hoàn thành",
+      "note": "",
+      "discount": 0,
+      "total_price": 32000000
+    },
+    {
+      "id": "1744113891729",
+      "customer_name": "Bùi Thị H",
+      "products": [
+        {
+          "id": "1",
+          "name": "Laptop Dell XPS 13",
+          "price": 32000000,
+          "description": "Laptop cao cấp với màn hình 13 inch và CPU Intel i7",
+          "image": "https://tse1.mm.bing.net/th?id=OIP.k4BpphS10ZBkCqd3O3N67AHaE7&pid=Api&P=0&h=180",
+          "category_id": 1,
+          "status": "Còn hàng",
+          "quantity": 1
+        }
+      ],
+      "order_date": "2025-04-08",
+      "status": "Đã hủy",
+      "note": "sdfghnm,",
+      "discount": 0,
+      "total_price": 436000000
+    },
+    {
+      "id": "1744114315186",
+      "customer_name": "Hoàng Văn E",
+      "products": [
+        {
+          "id": "1",
+          "name": "Laptop Dell XPS 13",
+          "price": 32000000,
+          "description": "Laptop cao cấp với màn hình 13 inch và CPU Intel i7",
+          "image": "https://tse1.mm.bing.net/th?id=OIP.k4BpphS10ZBkCqd3O3N67AHaE7&pid=Api&P=0&h=180",
+          "category_id": 1,
+          "status": "Còn hàng",
+          "quantity": 1
+        },
+        {
+          "id": "4",
+          "name": "MacBook Air M2",
+          "price": 29000000,
+          "description": "Laptop siêu nhẹ với chip M2 mạnh mẽ",
+          "image": "https://tse1.mm.bing.net/th?id=OIP.k4BpphS10ZBkCqd3O3N67AHaE7&pid=Api&P=0&h=180",
+          "category_id": 4,
+          "status": "Còn hàng",
+          "quantity": 1
+        }
+      ],
+      "order_date": "2025-04-08",
+      "status": "Hoàn thành",
+      "note": "",
+      "discount": 0,
+      "total_price": 61000000
+    },
+    {
+      "id": "1744184223870",
+      "customer_name": "Phạm Thị D",
+      "products": [
+        {
+          "id": "1",
+          "name": "Laptop Dell XPS 13",
+          "price": 32000000,
+          "description": "Laptop cao cấp với màn hình 13 inch và CPU Intel i7",
+          "image": "https://tse1.mm.bing.net/th?id=OIP.k4BpphS10ZBkCqd3O3N67AHaE7&pid=Api&P=0&h=180",
+          "category_id": 1,
+          "status": "Còn hàng",
+          "quantity": 4
+        }
+      ],
+      "order_date": "2025-04-09",
+      "status": "Chờ xác nhận",
+      "note": "",
+      "discount": 0,
+      "total_price": 128000000
+    },
+    {
+      "id": "1744184264166",
+      "customer_name": "nguyễn",
+      "products": [
+        {
+          "id": "2",
+          "name": "iPhone 14 Pro Max",
+          "price": 35000000,
+          "description": "Smartphone cao cấp với camera 48MP",
+          "image": "https://tse1.mm.bing.net/th?id=OIP.QFpdj3RVQRCeozn8iiDOdAHaHa&pid=Api&P=0&h=180",
+          "category_id": 2,
+          "status": "Còn hàng",
+          "quantity": 9
+        }
+      ],
+      "order_date": "2025-04-09",
+      "status": "Chờ xác nhận",
+      "note": "",
+      "discount": 0,
+      "total_price": 315000000
+    },
+    {
+      "id": "1744186937980",
+      "customer_name": "Đoàn Văn M",
+      "products": [
+        {
+          "id": "7",
+          "name": "iPad Pro M2",
+          "price": 27000000,
+          "description": "Máy tính bảng mạnh mẽ nhất của Apple",
+          "image": "https://tse1.mm.bing.net/th?id=OIP.k4BpphS10ZBkCqd3O3N67AHaE7&pid=Api&P=0&h=180",
+          "category_id": 1,
+          "status": "Còn hàng",
+          "quantity": 4
+        }
+      ],
+      "order_date": "2025-04-09",
+      "status": "Hoàn thành",
+      "note": "shipxpess",
+      "discount": 0,
+      "total_price": 108000000
+    },
+    {
+      "id": "1744284859457",
+      "customer_name": "Tô Thị L",
+      "products": [
+        {
+          "id": "7",
+          "name": "iPad Pro M2",
+          "price": 27000000,
+          "description": "Máy tính bảng mạnh mẽ nhất của Apple",
+          "image": "https://tse1.mm.bing.net/th?id=OIP.k4BpphS10ZBkCqd3O3N67AHaE7&pid=Api&P=0&h=180",
+          "category_id": 1,
+          "status": "Còn hàng",
+          "quantity": 5
+        }
+      ],
+      "order_date": "2025-04-10",
+      "status": "Chờ xác nhận",
+      "note": "ship 9h",
+      "discount": 0,
+      "total_price": 135000000
+    },
+    {
+      "id": "1744285649714",
+      "customer_name": "Vũ Văn I",
+      "products": [
+        {
+          "id": "2",
+          "name": "iPhone 14 Pro Max",
+          "price": 35000000,
+          "description": "Smartphone cao cấp với camera 48MP",
+          "image": "https://tse1.mm.bing.net/th?id=OIP.QFpdj3RVQRCeozn8iiDOdAHaHa&pid=Api&P=0&h=180",
+          "category_id": 2,
+          "status": "Còn hàng",
+          "quantity": 5
+        }
+      ],
+      "order_date": "2025-04-10",
+      "status": "Hoàn thành",
+      "note": "",
+      "discount": 0,
+      "total_price": 175000000
+    },
+    {
+      "id": "1752563983053",
+      "customer_name": "nguyễn hạcker",
+      "products": [
+        {
+          "id": "1",
+          "name": "Laptop Dell XPS 13",
+          "price": 32000000,
+          "description": "Laptop cao cấp với màn hình 13 inch và CPU Intel i7",
+          "image": "https://tse1.mm.bing.net/th?id=OIP.k4BpphS10ZBkCqd3O3N67AHaE7&pid=Api&P=0&h=180",
+          "category_id": 1,
+          "status": "Còn hàng",
+          "quantity": 1
+        },
+        {
+          "id": "2",
+          "name": "iPhone 14 Pro Max",
+          "price": 35000000,
+          "description": "Smartphone cao cấp với camera 48MP",
+          "image": "https://tse1.mm.bing.net/th?id=OIP.QFpdj3RVQRCeozn8iiDOdAHaHa&pid=Api&P=0&h=180",
+          "category_id": 2,
+          "status": "Còn hàng",
+          "quantity": 1
+        }
+      ],
+      "order_date": "2025-07-15",
+      "status": "Đang giao",
+      "note": "sadaf",
+      "discount": 3,
+      "total_price": 64990000
+    }
+  ]
+}
